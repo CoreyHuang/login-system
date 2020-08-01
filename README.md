@@ -3,7 +3,7 @@
 ### 網站是由node.js與express共同打造的，使用的是session的驗證方式。
 
 ---
-![image](https://github.com/CoreyHuang/ALPHAcamp_restaurant_DB_refactor/blob/master/restaurantDB.png)
+![image](https://github.com/CoreyHuang/login-system/blob/master/login.png)
 ### Features(功能描述):
 + 使用者可以瀏覽登入頁面。
 + 使用者可以輸入帳號與密碼。
@@ -34,7 +34,7 @@ npm install -g nodemon
 #### `<執行步驟>`
 #### 1. 使用terminal下載專案
 ```
-git clone https://github.com/CoreyHuang/ALPHAcamp_restaurant_DB_refactor.git
+git clone https://github.com/CoreyHuang/login-system.git
 ```
 #### 2. 安裝npm套件(package.json)
 ```
@@ -60,7 +60,6 @@ URL: http://localhost:3000/
 |peter@parker.com|enajyram|
 |natasha@gamil.com|parol|
 |nick@shield.com|password|
-|:---:|:------:|
 
 ### Prerequisites(環境建置與需求):
 #### `<安裝需求>` : 版本為記錄用，並非必須
