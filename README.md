@@ -59,7 +59,7 @@ URL: http://localhost:3000/
 |tony@stark.com|iamironman|
 |captain@hotmail.com|icandothisallday|
 |peter@parker.com|enajyram|
-|natasha@gamil.com|parol|
+|natasha@gamil.com|*parol#@$!|
 |nick@shield.com|password|
 
 ### Prerequisites(環境建置與需求):
